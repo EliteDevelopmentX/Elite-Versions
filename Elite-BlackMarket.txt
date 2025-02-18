@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"New Scripts"}
+{"version":"1.0.1","news":"Add API for create BlackMarket"}
