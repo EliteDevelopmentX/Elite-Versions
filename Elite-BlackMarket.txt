@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Add API for create BlackMarket"}
+{"version":"1.0.2","news":"Added symbol money, Added the ability to customize each market for buy and sell category and the ability to choose the account type for each market"}
