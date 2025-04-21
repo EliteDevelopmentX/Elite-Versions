@@ -1,1 +1,1 @@
-{"version":"0.0.1","news":"News script"}
+{"version":"0.0.2","news":"Fix to duplicate prostitue (Normally) | Check update channel "}
