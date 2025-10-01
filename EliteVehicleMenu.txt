@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Add version verification, add transalation, fix bug"}
+{"version":"1.0.1","news":"Add version verification, add transalation, fix bug, add function for keys"}
