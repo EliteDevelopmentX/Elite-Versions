@@ -1,1 +1,4 @@
-{"version":"1.0.1","news":"Add version verification, add transalation, fix bug, add function for keys"}
+{
+  "version": "1.0.2",
+  "news": "Added Qbox compatibility, introduced support for image URLs in the configuration (e.g. from GitHub), and fixed several bugs affecting certain features. (Soon: give vehicle to player)"
+}
